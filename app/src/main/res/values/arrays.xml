@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Task statuses -->
+    <string-array name="task_statuses">
+        <item>Nie rozpoczęto</item>
+        <item>Pracuję nad tym</item>
+        <item>Gotowe</item>
+        <item>Zablokowane</item>
+    </string-array>
+
+
+    <string-array name="task_priorities">
+        <item>Niski</item>
+        <item>Średni</item>
+        <item>Wysoki</item>
+        <item>Krytyczny</item>
+    </string-array>
+
+
+    <string name="due">Termin</string>
+    <string name="assigned_to">Osoba odpowiedzialna</string>
+    <string name="priority">Piorytet</string>
+    <string name="update_progress">Update Progress</string>
+</resources>

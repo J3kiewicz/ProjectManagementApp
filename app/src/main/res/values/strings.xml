@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Projekt_Trzeciakiewicz_Julia</string>
+    <string name="username_hint">username_hint</string>
+    <string name="password_hint">password_hint</string>
+    <string name="confirm_password_hint">confirm_password_hint</string>
+    <string name="register_button">register_button</string>
+    <string name="add_project_desc">add_project_desc</string>
+    <string name="project_management">Narzędzie do harmonogramowania pracy zespołu nad projektem inżynierskim</string>
+    <string name="username">Nazwa użytkownika</string>
+    <string name="password">Hasło</string>
+    <string name="login">Zaloguj się</string>
+    <string name="don_t_have_an_account">Nie masz konta? Zarejestruj się</string>
+    <string name="register">Rejestracja</string>
+
+    <string-array name="empty_array">
+        <item></item>
+    </string-array>
+</resources>

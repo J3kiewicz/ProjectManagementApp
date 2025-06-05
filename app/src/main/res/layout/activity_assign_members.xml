@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dodaj członków do zadania"
+            android:textSize="20sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:id="@+id/tvCurrentMembers"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"/>
+
+<!--        <EditText-->
+<!--            android:id="@+id/etMemberCount"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:hint="Number of members to assign"-->
+<!--            android:inputType="number"-->
+<!--            android:layout_marginBottom="16dp"/>-->
+
+        <Button
+            android:id="@+id/btnAssignRandom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Wylosuj"
+            android:layout_marginBottom="16dp"/>
+
+<!--        <TextView-->
+<!--            android:id="@+id/tvAssignedMembers"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="16dp"-->
+<!--            android:text="Assigned members will appear here"/>-->
+
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Powrót do zadań"
+            android:layout_marginTop="16dp"/>
+    </LinearLayout>
+</ScrollView>
