@@ -23,4 +23,6 @@ konkretnych zadań, co ułatwia komunikację i współpracę w zespole. Dodatkow
 oferuje możliwość dodawania i zarządzania notatkami związanymi z danym projektem –
 mogą to być ustalenia, pomysły czy inne istotne informacje.
 
+Ten projekt był moim pierwszym kontaktem z tworzeniem aplikacji mobilnych w środowisku Android Studio. Dzięki niemu nauczyłam się podstaw budowy interfejsu użytkownika, obsługi nawigacji między ekranami oraz zarządzania danymi użytkowników w aplikacji.
+
 Więcej informacji znajduje się w pliku pdf dodanym do repozytorium.
